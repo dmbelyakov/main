@@ -18,14 +18,6 @@ So many text 😉😉
 
 You can ask me anything!
 
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
-
 ***
 
 
